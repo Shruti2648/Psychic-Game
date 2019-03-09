@@ -1,0 +1,39 @@
+body {
+    background: rgb(70, 3, 70); 
+    color: whitesmoke;
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    padding-top: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+#game-instructions {
+    margin: 50px;
+    height: 125px;
+    width: 700px;
+    padding: 20px;
+    background: rgb(122, 67, 122);
+    position: fixed;
+    left: 350px;
+    top: 100px;
+}
+
+#game-stats {
+    margin: 50px;
+    height: 250px;
+    width: 700px;
+    padding: 20px;
+    background: rgb(122, 67, 122);
+    position: fixed;
+    left: 350px;
+    top: 300px;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 22px;
+    text-align: center;
+}
